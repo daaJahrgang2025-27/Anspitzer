@@ -6,7 +6,7 @@ services:
       container_name: mssql-northwind
       environment:
          - ACCEPT_EULA=Y
-         - SA_PASSWORD=<Dein_sicheres_Passwort>
+         - SA_PASSWORD=floerp
       ports:
          - "1433:1433"
       volumes:

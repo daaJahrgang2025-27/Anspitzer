@@ -3,7 +3,7 @@ FROM mcr.microsoft.com/mssql/server:2019-latest
 
 # Umgebungsvariablen für den SQL Server konfigurieren
 ENV ACCEPT_EULA=Y
-ENV SA_PASSWORD=<Dein_sicheres_Passwort>
+ENV SA_PASSWORD=floerp
 
 # Port 1433 für MSSQL exponieren
 EXPOSE 1433
