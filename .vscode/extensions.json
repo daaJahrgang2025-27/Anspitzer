@@ -1,0 +1,13 @@
+{
+	"recommendations": [
+		"ms-dotnettools.csdevkit",
+		"ms-dotnettools.vscodeintellicode-csharp",
+		"esbenp.prettier-vscode",
+		"ms-mssql.mssql",
+		"ms-mssql.sql-database-projects-vscode",
+		"inferrinizzard.prettier-sql-vscode",
+		"ms-dotnettools.vscode-dotnet-runtime",
+		"ms-azuretools.vscode-azureresourcegroups",
+		"ms-azuretools.vscode-cosmosdb"
+	]
+}
